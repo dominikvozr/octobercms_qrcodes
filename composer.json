@@ -11,5 +11,7 @@
             "email": "dominikvozr@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "simplesoftwareio/simple-qrcode": "^4.2"
+    }
 }
