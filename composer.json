@@ -1,11 +1,5 @@
 {
     "name": "root/qrcodes",
-    "type": "october-plugin",
-    "require": {
-        "simplesoftwareio/simple-qrcode": "^4.2",
-        "ramsey/uuid": "^4.6"
-    },
-    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Root\\Qrcodes\\": "src/"
@@ -16,5 +10,6 @@
             "name": "Dominik Vozar",
             "email": "dominikvozr@gmail.com"
         }
-    ]
+    ],
+    "require": {}
 }
