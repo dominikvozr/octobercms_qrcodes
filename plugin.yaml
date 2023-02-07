@@ -1,0 +1,10 @@
+plugin:
+    name: 'dondo.qrcodes::lang.plugin.name'
+    description: 'dondo.qrcodes::lang.plugin.description'
+    author: Dondo
+    icon: oc-icon-qrcode
+    homepage: ''
+permissions:
+    can-qrcode:
+        tab: can-qrcode
+        label: can-qrcode

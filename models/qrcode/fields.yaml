@@ -1,0 +1,21 @@
+fields:
+    name:
+        label: Name
+        span: auto
+        type: text
+    deleted_at:
+        label: 'Deleted at'
+        span: auto
+        type: datepicker
+    path:
+        label: Path
+        span: auto
+        type: text
+    created_at:
+        label: 'Created at'
+        span: auto
+        type: datepicker
+    updated_at:
+        label: 'Updated at'
+        span: auto
+        type: datepicker
