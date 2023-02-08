@@ -1,10 +1,5 @@
 {
-    "name": "root/qrcodes",
-    "autoload": {
-        "psr-4": {
-            "Root\\Qrcodes\\": "src/"
-        }
-    },
+    "name": "dondo/qrcodes-plugin",
     "authors": [
         {
             "name": "Dominik Vozar",
